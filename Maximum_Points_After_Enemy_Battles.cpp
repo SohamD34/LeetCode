@@ -1,3 +1,7 @@
+#include <iostream>
+#include <algorithm>
+#include <vector>
+
 class Solution {
 public:
     long long maximumPoints(vector<int>& enemyPowers, int currentEnergy) {
